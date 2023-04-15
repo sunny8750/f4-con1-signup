@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+*{
+  background-color: black;
+  color: white;
+
+}
+form{
+  margin: 50px;
+ 
+}
+form,input{
+  border: none;
+  outline: none;
+  width: 100%;
+  
+}
+#btn{
+  width: 10%;
+  height: 30px;
+  background-color: blue;
+}
